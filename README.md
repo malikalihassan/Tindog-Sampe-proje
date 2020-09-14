@@ -1,2 +1,1 @@
-# Tindog-Sampe-project
-This is a sample website named as "Tindog"
+TinDog Starting Files
